@@ -1,0 +1,37 @@
+body{
+    padding: 0px;
+    margin: 0px;
+    
+}
+.box1{
+ background: red;
+height: 200px;
+margin: 0px;
+padding: 0px;
+}
+.box2{
+    background-color: blue;
+ height: 200px;
+ margin: 0px;
+padding: 0px;
+    
+}
+.row1{
+   
+    height: 100vh;
+    margin: 0px;
+    padding: 0px;
+    background: orange;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.row2{
+
+    height: 400px;
+    background: green;
+    margin: 0px;
+    padding: 0px;
+   
+    
+}
